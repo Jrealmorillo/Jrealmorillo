@@ -5,7 +5,8 @@
 
 -  You can ask 💬 me about **anything, as long as it is reasonable**
 
--  Feel free to contact me for collaboration 🤝 **in any interesting project**
+-  Feel free to contact me for collaboration 🤝 **in any interesting project** 📧 **jrealmorillo@gmail.com**
+
 
 
 
