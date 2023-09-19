@@ -3,11 +3,9 @@
 
 -  I’m currently working 👨‍💻 on **my personal portfolio**...and probably learning 📖, as usual
 
--  You can ask 💬 me about **anything, as long as it is reasonable**
-
 -  Feel free to contact me for collaboration 🤝 **in any interesting project** 📧 **jrealmorillo@gmail.com**
 
-
+-  You can also ask 💬 me about anything, **as long as it is reasonable** 😅
 
 
 <h3 align="left">Languages and Tools:</h3>
