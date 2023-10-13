@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Jose Real</h1>
-<h3 align="center">A Full Stack Developer and UX Designer from Spain</h3>
+<h3 align="center">Full Stack Developer and UX Designer from Spain</h3>
 
 -  I’m currently working 👨‍💻 on **my personal portfolio**...and probably learning 📖, as usual
 
