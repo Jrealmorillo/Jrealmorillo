@@ -1,11 +1,11 @@
 <h1 align="center">Hi there👋, I'm José Real</h1>
 <h3 align="center">A Full Stack Developer from Spain</h3>
 
--  I’m currently working 👨‍💻 on **my personal portfolio**...and probably learning 📖, as usual
+-  I’m currently working on **my personal portfolio**...and probably learning, as usual
 
--  Feel free to contact me for collaboration 🤝 **in any interesting project** 📧 **jrealmorillo@gmail.com**
+-  Feel free to contact me for collaboration **in any interesting project** 📧 **jrealmorillo@gmail.com**
 
--  You can also ask 💬 me about anything, **as long as it is reasonable** 😅
+-  You can also ask me about anything, **as long as it is reasonable** 😅
 
 
 <h3 align="center">Languages and Tools</h3>
